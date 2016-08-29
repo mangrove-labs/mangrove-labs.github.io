@@ -1,0 +1,21 @@
+body,h1,h3,h4 {
+	font-family: 'Open Sans', sans-serif;
+}
+.part.one {
+	background:url(../images/bg01-sepia.jpg) center center;
+	padding:10rem 0 4rem;
+}
+h1 {
+	color: #fff;
+	font-weight: 800;
+}
+.callout {
+	font-size: 1rem;
+	background-color: #000;
+	color: #fff;
+	opacity: 0.7;
+}
+.part.two {
+	font-size: 1rem;
+	padding:6rem 0 5rem;
+}
